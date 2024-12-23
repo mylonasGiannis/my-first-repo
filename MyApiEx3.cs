@@ -252,7 +252,7 @@ namespace QBM.CompositionApi
 
                 }));
 
-
+            //this is a comment to check the exercise 2 in github(test 1)
 
 
             builder.AddMethod(Method.Define("apiex3/pwo")
@@ -316,7 +316,7 @@ namespace QBM.CompositionApi
         {
             public string id { get; set; }  // Array of columns containing data
         }
-
+        //this is a comment to check the exercise 2 in github(test 2)
         public class ReturnedName
         {
             // Properties to hold the first name and last name of the user
@@ -378,7 +378,7 @@ namespace QBM.CompositionApi
 
         
 
-       
+        //this is a comment to check the exercise 2 in github(test 3)
 
         public class ReturnedGroups
         { 
