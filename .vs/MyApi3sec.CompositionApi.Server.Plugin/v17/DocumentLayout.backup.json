@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\OneIM\\Desktop\\api\\MyApi3sec.CompositionApi.Server.Plugin\\",
+  "WorkspaceRootPath": "C:\\Users\\OneIM\\Desktop\\api\\git-4-public-clone\\my-first-repo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87091711-C85F-4B1D-8647-5B5D2D228A7E}|MyApi3sec.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\desktop\\api\\myapi3sec.compositionapi.server.plugin\\myapiex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87091711-C85F-4B1D-8647-5B5D2D228A7E}|MyApi3sec.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\desktop\\api\\git-4-public-clone\\my-first-repo\\myapiex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87091711-C85F-4B1D-8647-5B5D2D228A7E}|MyApi3sec.CompositionApi.Server.Plugin.csproj|solutionrelative:myapiex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MyApiEx3.cs",
-              "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\api\\MyApi3sec.CompositionApi.Server.Plugin\\MyApiEx3.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\api\\git-4-public-clone\\my-first-repo\\MyApiEx3.cs",
               "RelativeDocumentMoniker": "MyApiEx3.cs",
-              "ToolTip": "C:\\Users\\OneIM\\Desktop\\api\\MyApi3sec.CompositionApi.Server.Plugin\\MyApiEx3.cs",
+              "ToolTip": "C:\\Users\\OneIM\\Desktop\\api\\git-4-public-clone\\my-first-repo\\MyApiEx3.cs",
               "RelativeToolTip": "MyApiEx3.cs",
-              "ViewState": "AgIAAOMAAAAAAAAAAAAlwPEAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAlwNQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T15:00:34.7Z",
               "EditorCaption": ""
